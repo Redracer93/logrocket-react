@@ -51,7 +51,7 @@
     "karma-mocha-reporter": "^2.2.5",
     "karma-safari-launcher": "^1.0.0",
     "karma-sinon": "^1.0.5",
-    "karma-webpack": "^2.0.6",
+    "karma-webpack": "^5.0.1",
     "mocha": "^4.0.1",
     "mocha-circleci-reporter": "^0.0.2",
     "rimraf": "^2.6.1",
